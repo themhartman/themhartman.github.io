@@ -90,7 +90,7 @@ header.landing h2{
   grid-column: hero-start / hero-end;
   grid-row: hero-start / hero2-end;
   width: 100%;
-  background: radial-gradient(circle at 50% 35%, rgba(0, 0, 0, 0) 10%, rgba(0, 0, 0, .4) 20%, rgba(0, 0, 0, .7) 40%), url("https://i1.wp.com/themhartman.files.wordpress.com/2018/02/streetlight1.png") center center;
+  background: url("/assets/img/streetlight1grad.png") center center;
   background-size: cover;
   height: 40rem;
   clip-path: circle(40% at 50% 50%);
