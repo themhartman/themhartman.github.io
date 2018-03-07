@@ -90,7 +90,7 @@ header.landing h2{
   grid-column: hero-start / hero-end;
   grid-row: hero-start / hero2-end;
   width: 100%;
-  background: url("/assets/img/streetlight1grad.png") center center;
+  background: url("/assets/img/streetlight1.jpg") center center;
   background-size: cover;
   height: 40rem;
   clip-path: circle(40% at 50% 50%);
