@@ -11,7 +11,7 @@ summary: "We’ve abandoned politics for consumption."
 layout: post
 image: /assets/img/awl.jpg
 ---
-politics to a matter of acquiring certain properties has only grown.
+Once, as a way of summing up his feelings on Che Guevara, my college history professor warned, “All of you wearing Che T-shirts are the first ones he would put against the wall.” I assume he meant to criticize my classmates for their devotion to radical politics, but in retrospect it seems equally apt as a criticism that they were not devoted enough. And while I’m not fond of summary executions, that interpretation seems more to the point today, because the tendency to reduce politics to a matter of acquiring certain properties has only grown.
 
 Since Shepard Fairey convinced a generation of activists to adopt [Obama’s visage](https://en.wikipedia.org/wiki/Barack_Obama_%22Hope%22_poster), [designers and artists](http://www.vogue.com/article/hillary-clinton-made-for-history-fashion-designer-t-shirts) flock to [create special-edition apparel](https://www.everlane.com/collections/100-percent-human) for [candidates and movements](https://www.redbubble.com/shop/resistance+t-shirts), and slogans are printed on anything that can be sold in an online store, both for profit and not. “The modern practice of feminist activism has become inextricably tied to what we buy and what we wear,” Leah Finnegan wrote in the perfectly titled “[Nevertheless, She Bought a Shirt](https://theoutline.com/post/1128/nevertheless-she-bought-a-shirt).” The same is true for racial justice, environmental justice, even economic justice.
 
