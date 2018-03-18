@@ -13,10 +13,10 @@
 <body>
     {% include menu.html %}
     <div class="button-group filter-button-group">
+      <a class="button active" data-filter="*"><span data-hover="All">All</span></a>
       {% for category in site.categories %}
         <a class="button" data-filter=".{{ category | first }}"><span data-hover="{{ category | first }}">{{ category | first }}</span></a>
       {% endfor %}
-        <a class="button active" data-filter="*"><span data-hover="All">All</span></a>
       </div>
     <div class="archive">
       {% for post in site.tags.[page.tags] %}
