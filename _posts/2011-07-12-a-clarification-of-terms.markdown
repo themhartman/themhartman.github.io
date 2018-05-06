@@ -11,6 +11,7 @@ tags:
 - Entertainment!
 - unpublished
 categories: commentary
+image: /assets/img/badioumetapolitics.jpg
 ---
 
 I have previously written that Alain Badiou suffers from infidelity when he supports Saint-Just. I think, to formulate my thinking in the most precise way possible, it would be better to say that he suffers from incoherence–incoherence with the logic of the human condition (that of language). Fidelity is a measure of commitment to an Event, coherence a measure of alignment with a logic.

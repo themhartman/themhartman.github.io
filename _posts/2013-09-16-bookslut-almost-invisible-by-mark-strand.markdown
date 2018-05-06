@@ -15,6 +15,7 @@ tags:
 - bookslut
 - poetry
 - published
+image: /assets/img/almostinvisible.jpg
 ---
 
 Review of Mark Strand's wonderful book of prose poetry.

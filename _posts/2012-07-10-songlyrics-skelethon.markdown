@@ -16,8 +16,9 @@ tags:
 - rap
 - songlyrics
 - published
+image: /assets/img/skelethon.jpg
 ---
 
-A gushing review over Aesop Rock's _Skelethon_.
+A gushing review of Aesop Rock's _Skelethon_.
 
 [SongLyrics | Skelethon](http://www.songlyrics.com/news/album-reviews/album-review-aesop-rock-skelethon/)

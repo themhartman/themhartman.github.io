@@ -14,6 +14,7 @@ tags:
 - unpublished
 categories:
 - commentary
+image: /assets/img/passive-voice.jpg
 ---
 
 The idea of structural oppression isn't exactly new, but within the past twenty or so years, it's come in vogue. More recently, the idea of structural racism has truly taken off, even among mainstream liberals. (Check out an [Ngram](https://books.google.com/ngrams/graph?content=structural+oppression%2C+structural+racism&year_start=1916&year_end=2016&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cstructural%20oppression%3B%2Cc0%3B.t1%3B%2Cstructural%20racism%3B%2Cc0) of the terms for proof.) Yet as these ideas have popularized, the commitment to looking at the actual structures undergirding structural oppressions has diminished—even among leftists.

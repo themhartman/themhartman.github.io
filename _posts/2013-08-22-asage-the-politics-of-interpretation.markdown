@@ -16,6 +16,7 @@ tags:
 - heidegger
 - politics
 - published
+image: /assets/img/asageissue16.jpg
 ---
 
 Conference paper about Stanley Cavell, Heidegger, and Thoreau, and the role of interpretation in politics.

@@ -16,6 +16,7 @@ tags:
 - unpublished
 categories:
 - commentary
+image: /assets/img/dasman.jpg
 ---
 
 From Twitter conversations to speeches at rallies to comments in reading groups to analyses written in magazines and pamphlets, I continually notice that statements about structural oppression begin the same way: They. They want us. They try to. They hate. Always They, and always with a capital ‘t’.

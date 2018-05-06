@@ -11,6 +11,7 @@ tags:
 - Blood On The Tracks
 - unpublished
 categories: commentary
+image: /assets/img/wittgenstein.jpg
 ---
 
 Many linguists and logicians discuss the value of mathematical notation, develop systems of writing which makes language perfectly precise. They lament the fact that our language lacks a certain precision. Wittgenstein argues that language should be exact and unambiguous, that every indeterminacy is a failure. But this is not the case. This belief stems from the idea that the world–the physical reality of the world–is perfectly logical. In truth, the world is irrational. Physical laws certainly govern it, and those laws are regular: they can be traced out, explained and understood. But innocents will still be killed, tragedies will happen to good people, and certain facts will remain incomprehensible to the human mind–not because they are not subject to laws rules, but because they exist outside the limits of human reason and perception.

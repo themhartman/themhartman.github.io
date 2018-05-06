@@ -16,6 +16,7 @@ tags:
 - unpublished
 categories:
 - commentary
+image: /assets/img/emojiwar.jpg
 ---
 
 _NB: I reworked this piece and eventually published an updated version with LARB. You can see that (much better) version [here](https://lareviewofbooks.org/article/content-expanding-entertainment-collapsing-criticism/)._

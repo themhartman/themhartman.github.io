@@ -12,6 +12,7 @@ tags:
 - Thank You For Your Love
 - unpublished
 categories: criticism
+image: /assets/img/lolita.jpg
 ---
 
 <blockquote>[T]he artist in me has been given the upper hand over the gentleman.</blockquote>

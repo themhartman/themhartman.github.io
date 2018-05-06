@@ -11,6 +11,7 @@ tags:
 - The Monitor
 - unpublished
 categories: commentary
+image: /assets/img/nozickcover.jpg
 ---
 
 In the world where Libertarianism is gaining clout with each political discussion and Ayn Rand is gaining followers every day, freedom is being used as a defense for everything from pre-emptive wars to corporate welfare. And yet the term seems ill-defined. Certainly every good American has a general idea: it means to be able to yell at a person, the ability to take pleasure in your vices, the lack of Fascist oppression. But there is a complex mechanism which (internally) defines freedom which goes unexamined.

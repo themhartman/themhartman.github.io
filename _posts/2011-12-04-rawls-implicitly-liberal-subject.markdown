@@ -11,6 +11,7 @@ tags:
 - Chuck Berry's Greatest Hits
 - unpublished
 categories: academic
+image: /assets/img/johnrawls.jpg
 ---
 
 **§1 - Introduction**

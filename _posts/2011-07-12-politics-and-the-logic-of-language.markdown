@@ -11,6 +11,7 @@ tags:
 - The Wild Hunt
 - unpublished
 categories: commentary
+image: /assets/img/critchleydemanding.png
 ---
 
 In grounding politics in Badiou’s events and truth-procedures and Critchley’s demand/approval; in critiquing modern anti-Capitalist movements for following the form of Capitalism; in judging all political thought on coherence and fidelity to a system of thought, we are left with an obvious question: what is the structure of this thought system? What should a political sequence look like, what are the rules which it must follow?

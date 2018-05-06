@@ -15,6 +15,7 @@ tags:
 - music
 - songlyrics
 - published
+image: /assets/img/boxer.jpg
 ---
 
 An essay in which I more or less just catalog my favorite lyrics from The National and try to point out their glory.

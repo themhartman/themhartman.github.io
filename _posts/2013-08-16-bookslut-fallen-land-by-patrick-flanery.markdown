@@ -15,6 +15,7 @@ tags:
 - bookslut
 - literature
 - published
+image: /assets/img/fallenland.jpg
 ---
 
 Review of an ambitious and slightly disappointing novel about life in contemporary America.

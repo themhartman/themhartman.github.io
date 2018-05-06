@@ -12,6 +12,7 @@ tags:
 - unpublished
 categories:
 - creative work
+image: /assets/img/brooklyn.jpg
 ---
 
 I realized recently that I had a creative works category on this site that I described as "essays and fiction, mostly" and that was mostly empty, barring one random, old, throwaway writing exercise and a poem I published at a tiny (microscopic, even) literary journal. That's not because I haven't spent time doing creative works; it's because the vast majority of my creative writing time has been spent on an as-of-yet unpublished novel and a longish autobiographical essay. So, while I'm getting around to writing some short stories I've been planning for a while (and doing some reporting projects—hence the new category name), I figured I should at least post the prologue from the novel, which I've been calling _The Distractions_. (The essay should be published next month.)

@@ -14,6 +14,7 @@ tags:
 - unpublished
 categories:
 - commentary
+image: /assets/img/jacobin.jpg
 ---
 
 Earlier today, I published a piece in _[Jacobin](https://www.jacobinmag.com/2015/06/gentrification-cultural-capitalism/)_ that offered a criticism of the way developers are privatizing public spaces and commodifying culture, especially in Durham. I argued that this trend is a novel one, demonstrating an expansion of capitalist exploitation.

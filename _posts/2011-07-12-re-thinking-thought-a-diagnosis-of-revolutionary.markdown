@@ -12,6 +12,7 @@ tags:
 - Mule Variations
 - unpublished
 categories: commentary
+image: /assets/img/critchley.jpg
 ---
 
 Revolutionary politics have become utterly meaningless today. They lack purpose and movement. They have been soundly defeated, continuously, by the Capitalist status quo. The green movement, fair trade organizations, indigenous rights groups–they have all certainly claimed small victories, but those concessions have been painted by their champions as grand events that mark an important moment in history. It cannot be stressed enough how little significance they have. Many others, I think, share this feeling. That is the cause behind what Simon Critchley calls the ‘political disappointment’ of this age. Furthering any emancipatory movement, and creating a true political sequence, requires a massive restructuring of the current popular understanding of politics in order to find the specific point of failure. Critchley gives us a strong foothold to begin with in his short book _Infinitely Demanding._

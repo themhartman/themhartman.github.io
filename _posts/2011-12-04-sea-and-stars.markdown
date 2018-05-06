@@ -13,6 +13,7 @@ tags:
 - Give 'Em Enough Rope
 - unpublished
 categories: commentary
+image: /assets/img/camus.jpg
 ---
 
 <blockquote>One can reject all history and yet accept the world of the sea and the stars.</blockquote>

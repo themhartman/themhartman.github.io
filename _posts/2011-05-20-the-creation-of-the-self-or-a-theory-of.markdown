@@ -12,6 +12,7 @@ tags:
 - The Drums
 - unpublished
 categories: commentary
+image: /assets/img/lacan-knot.png
 ---
 
 So much recent work in philosophy has been devoted to studying subjectivity and reworking the idea of personhood to incorporate Lacanian ideas and other theories which stem from language that it is necessary, as a precursor to whatever writings I put forward in response to these various theories, for me to explain my basic thoughts on subjectivity.

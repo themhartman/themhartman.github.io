@@ -14,6 +14,7 @@ tags:
 - tarantino
 - unpublished
 categories: criticism
+image: /assets/img/django.jpg
 ---
 
 A week or so ago I finally watched _Django Unchained_. When the movie was first released, I read a lot of debates about whether Tarantino ever should have made a film about slavery, and, at the time, I argued that there shouldn’t be any a priori prohibition on him making it. I do still believe that white people can speak intelligently and productively about race and racism. It’s just unfortunate that Tarantino can’t.

@@ -11,6 +11,7 @@ tags:
 - It is rain in my face's Bread and Silver Water
 - unpublished
 categories: "creative work"
+image: /assets/img/sisyphus.jpg
 ---
 
 The human condition is one defined by limits. The most important of these is the epistemic limit: we cannot know why we exist. There are limits to our reason. Though we can and should push these limits back–Science has been doing so for centuries–we cannot ever reach a point where we understand our existence in toto. To do so would be to become something supra-human. It would be to become a god.

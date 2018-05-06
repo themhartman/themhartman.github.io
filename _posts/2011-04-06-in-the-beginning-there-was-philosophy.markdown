@@ -12,6 +12,7 @@ tags:
 - This is the Modern World
 - unpublished
 categories: commentary
+image: /assets/img/searle.jpg
 ---
 
 Though you wouldn’t know it yet, this being the first post, this will be a place for Philosophy. A place, that is, for my philosophy–however poorly it turns out, that is and always will be the end in mind. And in light of that, it seems as though I should begin with a discussion of what Philosophy is, or at least should be. John Searle, answering a similar question in an [interview](http://globetrotter.berkeley.edu/people/Searle/searle-con0.html) said

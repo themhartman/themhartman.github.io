@@ -14,6 +14,7 @@ tags:
 - unpublished
 categories:
 - commentary
+image: /assets/img/sensesofwalden.jpg
 ---
 
 Earlier this week, I published an essay at _Scalawag_ titled "[White Silence Is Tragic Silence](http://www.scalawagmagazine.org/articles/tragic-silence-hartman)." The gist of the essay is that the mainstream, moderate liberal left uses conversations about the need to talk about racism—or to call racism what it is—as a way of silencing any truly productive conversation about racism. The published piece is much, much different (and by that I mean better) than the original drafts I sent in. Part of the problem with those early drafts was that I was insistent on including allusions to the philosophical background I was drawing on to make the analysis driving the essay. Though those allusions were rightly removed, they are still essential to my own thinking, so I'd like to pay homage to my inheritance here.

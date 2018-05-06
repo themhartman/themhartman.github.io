@@ -15,6 +15,7 @@ tags:
 - wittgenstein
 - unpublished
 categories: commentary
+image: /assets/img/disagreement.jpg
 ---
 
 Aristotle makes a distinction between speech, that uniquely human capacity for reasonable communication, and mere voice, the bleating and crying even animals can use to indicate pain and pleasure.

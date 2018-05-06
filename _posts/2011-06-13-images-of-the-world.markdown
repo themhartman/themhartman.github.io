@@ -13,6 +13,7 @@ tags:
 - Here Are The Sonics
 - unpublished
 categories: criticism
+image: /assets/img/corrections.jpg
 ---
 
 <blockquote>How could people respond to these images if images didn’t secretly enjoy the same status as real things? Not that images were so powerful, but that the world was so weak?</blockquote>

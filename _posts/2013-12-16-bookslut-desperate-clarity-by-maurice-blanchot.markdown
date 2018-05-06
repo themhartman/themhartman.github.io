@@ -13,6 +13,7 @@ categories:
 post_format:
 - Link
 tag: published
+image: /assets/img/desperateclarity.jpg
 ---
 
 Review in which I fight through the second volume of Maurice Blanchot's _Chronicles of Intellectual Life_.
