@@ -13,6 +13,7 @@ tags:
 - 'Proxima Estacion: Esperanza'
 - unpublished
 categories: commentary
+image: /assets/img/hardtnegri.jpg
 ---
 
 <blockquote>Emancipation is only the beginning.</blockquote>

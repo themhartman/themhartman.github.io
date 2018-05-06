@@ -11,6 +11,7 @@ tags:
 - A Series of Sneaks
 - unpublished
 categories: commentary
+image: /assets/img/louisiana.jpg
 ---
 
 There are moments–unseen, unexpected–at which I am simply overwhelmed, in the entirety of my being, lost in a simple yet all-consuming thought. _Why?_ It’s an important question, of course. And an impossible one. The power it contains is awful. But for me, the question can take a specific shape.

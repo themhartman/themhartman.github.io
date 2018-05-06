@@ -13,6 +13,7 @@ tags:
 - police brutality
 - unpublished
 categories: commentary
+image: /assets/img/ferguson.jpg
 ---
 
 Cops don’t indict cops.

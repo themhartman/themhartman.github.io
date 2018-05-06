@@ -12,6 +12,7 @@ tags:
 - The Rosebuds Make Out
 - unpublished
 categories: commentary
+image: /assets/img/arab-spring.jpg
 ---
 
 The question of politics has more or less become the question of what sort of Democracy should be instituted; or, what amounts to the same thing, which political system is the most Democratic. It has become an accepted fact that Democracy is the only politics which is acceptable. The only real instances of existing governments which are not Democratic still claim to be so–the very fact that they must make that transparent nominal act gives evidence to the power that Democracy carries with it. It is impossible to imagine a friend or peer claiming to not believe in Democracy (or at least democratic principles). To do so would be such a transgression that that person would automatically lose their place in their society. It is the taboo of taboos. Simply put, in Alain Badiou’s words, “It is forbidden, as it were, not to be a democrat.” (I have many misgivings with Badiou’s thought, and my critiques of his politics will hopefully be spelled out soon, but I have only respect for his courage in original thought). However, in order to find progress in any emancipatory (political) endeavor, we must be willing to question even the beneficence of Democracy itself.

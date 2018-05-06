@@ -11,6 +11,7 @@ tags:
 - The Kinks
 - unpublished
 categories: commentary
+image: /assets/img/revoltofthemasses.jpg
 ---
 
 Amongst the long list of problems plaguing our sparkling Post-Industrial world, there is a problem that is all the more worrisome for how little attention it garners: the ownership of “research.” Yes, those are scare quotes. The problem is a simple one, even obvious. Academic work is dependent on pay.

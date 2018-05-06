@@ -14,6 +14,7 @@ tags:
 - unpublished
 categories:
 - criticism
+image: /assets/img/newsies.jpg
 ---
 
 I recently published an essay at _[In These Times](http://inthesetimes.com/working/entry/18715/the_radical_collective_action_of_disneys_newsies_is_still_relevant_today)_ about _Newsies_, my all-time favorite movie. The essay was born out of my inability to stop analyzing the Broadway show based on the movie after I saw it last summer. While I appreciate _In These Times_' willingness to publish an essay about a twenty-three-year-old movie, they unsurprisingly had to cut a lot from the original three-thousand-word draft I put together. (Okay, I cut it before sending it to them to save them the trouble.)

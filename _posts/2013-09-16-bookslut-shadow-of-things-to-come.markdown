@@ -15,6 +15,7 @@ tags:
 - bookslut
 - literature
 - published
+image: /assets/img/shadowofthingstocome.jpg
 ---
 
 Review of a brilliant, Kafka-esque novel by Togolese writer Kossi Efoui.

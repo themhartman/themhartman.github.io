@@ -11,6 +11,7 @@ tags:
 - Rabbit Habits
 - unpublished
 categories: commentary
+image: /assets/img/badiou.jpg
 ---
 
 In his _[Metapolitics](http://www.amazon.com/Metapolitics-Alain-Badiou/dp/184467035X)_, Alain Badiou lays out a severe criticism of the field of political philosophy while giving an account of what amounts to a complete re-do on the way which we should approach politics. Badiou’s essential point is that politics is a inherently subjective enterprise–the objective approach that philosophers have taken is utterly useless. With his typically obtuse yet precise language, Badiou claims that any true instance of politics forms its own singularity–it exists within itself. Thus political events cannot be judged. We cannot say, for instance, that the French Revolution was an unjust political sequence during the Terror for doing so makes the mistake of falsely applying objective standards to a singularity which exists, in toto, to itself. Further, any notion of equality comes not as an outcome of this event, but as they beginning: it is posited as the starting point which begins the sequence itself. Terror, then, is not the downfall of a politics but merely its virtuous continuation–it is the outcome which arises whenever one demands egalitarian ideals.

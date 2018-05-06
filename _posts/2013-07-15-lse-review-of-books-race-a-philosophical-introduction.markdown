@@ -17,6 +17,7 @@ tags:
 - philosophy
 - race
 - published
+image: /assets/img/taylorrace.jpg
 ---
 
 Review of Paul C. Taylor's lucid and helpful introductory review about the philosophy of race.

@@ -14,6 +14,7 @@ tags:
 - unpublished
 categories:
 - commentary
+image: /assets/img/american-flag2.jpg 
 ---
 
 On Friday, I went to a rally for immigrant rights in Durham. One of the protesters was flying an American flag, and many others shouted slogans and carried signs declaring that closing the border—whether by wall or decree—was simply un-American. The loudest cheers during the rally, at least while I was there, came when the refugees who bravely told their stories thanked the city of Durham, or said they loved Durham. _This is who we are_, the cheers said, _not what Trump represents_.

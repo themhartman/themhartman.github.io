@@ -16,6 +16,7 @@ tags:
 - music
 - songlyrics
 - published
+image: /assets/img/wixiw.jpg
 ---
 
 Review of Liars' stunning electronic album _WIXIW_.

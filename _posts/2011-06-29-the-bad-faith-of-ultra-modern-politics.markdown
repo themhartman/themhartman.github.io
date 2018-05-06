@@ -12,6 +12,7 @@ tags:
 - This Is Happening
 - unpublished
 categories: commentary
+image: /assets/img/obamashirt.jpg
 ---
 
 Today’s ultra-modern political climate is marked by ever-deepening layers of deception. It is advertising made into a new kind of political philosophy–a political philosophy which is designed to inhibit the creation of true politics. Perhaps the most recognizable example is the constant failure of the media. Though it is not a specifically political institution, the working of news organizations is a symtom which is quite telling of the disease.

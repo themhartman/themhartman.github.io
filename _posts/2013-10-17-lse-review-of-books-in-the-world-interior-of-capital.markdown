@@ -16,6 +16,7 @@ tags:
 - lse review of books
 - philosophy
 - published
+image: /assets/img/worldinterior.jpg
 ---
 
 Review of Peter Sloterdijk's frustrating and wandering philosophical treatise-cum-cultural history.

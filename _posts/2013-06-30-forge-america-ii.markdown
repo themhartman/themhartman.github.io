@@ -13,6 +13,7 @@ post_format:
 - Link
 tags:
 - published
+image: /assets/img/forgevol7iss1.jpg
 ---
 
 A poem riffing on Ginsburg that I like much less in retrospect.

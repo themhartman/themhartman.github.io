@@ -12,6 +12,7 @@ categories:
 post_format:
 - Link
 tag: published
+image: /assets/img/massacre.jpg
 ---
 
 Review of John Merriman's _Massacre_, a history of the Paris Commune, in light of Ferguson, Eric Garner, and Occupy, and in particular on the question of what lessons we should take from the Commune.

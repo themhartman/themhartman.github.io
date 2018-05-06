@@ -12,6 +12,7 @@ tags:
 - Native Speaker
 - unpublished
 categories: academic
+image: /assets/img/badioubeing.jpg
 ---
 
 **§ 1 - Introduction**

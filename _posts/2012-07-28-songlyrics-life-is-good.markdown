@@ -16,6 +16,7 @@ tags:
 - rap
 - songlyrics
 - published
+image: /assets/img/lifeisgood.jpg
 ---
 
 Review of Nas's late career, and yet still terrific, album _Life Is Good_.

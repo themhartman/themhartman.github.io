@@ -15,6 +15,7 @@ tags:
 - unpublished
 categories:
 - commentary
+image: /assets/img/funhome.jpg
 ---
 
 There's a bit of a controversy (or [maybe just an excuse](http://www.dukechronicle.com/article/2015/08/don039t-believe-the-hype) for bloggers to complain about something) brewing in Durham over a (small) group of Duke University first-year students who refused to read their summer reading assignment, Alison Bechdel's graphic memoir _Fun Home_.

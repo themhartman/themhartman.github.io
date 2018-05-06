@@ -16,6 +16,7 @@ tags:
 - music
 - songlyrics
 - published
+image: /assets/img/bloom.jpg
 ---
 
 Review of the infections Beach House album _Bloom_.
