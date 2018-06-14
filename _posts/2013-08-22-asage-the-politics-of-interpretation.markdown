@@ -21,4 +21,4 @@ image: /assets/img/asageissue16.jpg
 
 Conference paper about Stanley Cavell, Heidegger, and Thoreau, and the role of interpretation in politics.
 
-[ASAGE | The Politics of Interpretation](http://asage.org/index.php/ASAGE/article/view/139/62)
+_Read it at_ [ASAGE](http://asage.org/index.php/ASAGE/article/view/139/62).

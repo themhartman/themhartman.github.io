@@ -8,7 +8,7 @@ slug: forge-america-ii
 title: Forge | America II
 wordpress_id: 122
 categories:
-- creative work
+- creative
 post_format:
 - Link
 tags:

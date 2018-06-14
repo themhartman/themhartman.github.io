@@ -20,4 +20,4 @@ image: /assets/img/shadowofthingstocome.jpg
 
 Review of a brilliant, Kafka-esque novel by Togolese writer Kossi Efoui.
 
-[Bookslut | The Shadow of Things to Come by Kossi Efoui](http://www.bookslut.com/fiction/2013_09_020314.php)
+_Read it at_ [Bookslut](http://www.bookslut.com/fiction/2013_09_020314.php).

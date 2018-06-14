@@ -29,4 +29,4 @@ It is this thought that grounds Hohmann’s defense of the right to housing. Hou
 
 ---
 
-_Read the rest at_ [LSE Review of Books | The Right to Housing](http://blogs.lse.ac.uk/lsereviewofbooks/2013/09/04/book-review-the-right-to-housing/).
+_Read the rest at_ [LSE Review of Books](http://blogs.lse.ac.uk/lsereviewofbooks/2013/09/04/book-review-the-right-to-housing/).

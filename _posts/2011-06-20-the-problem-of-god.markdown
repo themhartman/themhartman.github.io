@@ -10,7 +10,7 @@ wordpress_id: 24
 tags:
 - It is rain in my face's Bread and Silver Water
 - unpublished
-categories: "creative work"
+categories: creative
 image: /assets/img/sisyphus.jpg
 ---
 

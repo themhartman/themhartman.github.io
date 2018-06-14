@@ -20,4 +20,4 @@ image: /assets/img/almostinvisible.jpg
 
 Review of Mark Strand's wonderful book of prose poetry.
 
-[Bookslut | Almost Invisible by Mark Strand](http://www.bookslut.com/poetry/2013_09_020325.php)
+_Read it at_ [Bookslut](http://www.bookslut.com/poetry/2013_09_020325.php).

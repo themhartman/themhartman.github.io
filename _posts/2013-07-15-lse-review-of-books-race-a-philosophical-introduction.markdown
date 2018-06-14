@@ -22,4 +22,4 @@ image: /assets/img/taylorrace.jpg
 
 Review of Paul C. Taylor's lucid and helpful introductory review about the philosophy of race.
 
-[LSE Review of Books | Race: A Philosophical Introduction](http://blogs.lse.ac.uk/lsereviewofbooks/2013/07/15/book-review-race-a-philosophical-introduction/)
+_Read it at the_ [LSE Review of Books](http://blogs.lse.ac.uk/lsereviewofbooks/2013/07/15/book-review-race-a-philosophical-introduction/).

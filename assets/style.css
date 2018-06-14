@@ -80,7 +80,7 @@ header {
   padding-bottom: 1rem;
 }
 
-header.landing h1{
+header.landing h1, .archive-heading h1{
   font-family: "Montserrat", serif;
   font-size: 2.25rem;
   text-transform: uppercase;
@@ -88,7 +88,7 @@ header.landing h1{
   margin-right: .625rem;
 }
 
-header.landing h2{
+header.landing h2, .archive-heading h2{
   font-size: 1.375rem;
   font-family: "Glegoo", serif;
   text-transform: lowercase;
@@ -204,7 +204,7 @@ nav.landing {
   transition: .5s ease-in-out;
   z-index: 1;
   overflow-x: hidden;
-  border: 1px solid red;
+  
 }
 
 .article-menu ul {
@@ -246,7 +246,7 @@ h1.article {
   font-family: Montserrat;
   font-size: 2rem;
   text-align: center;
-  margin: 5rem 0 0 0;
+  margin: 5rem auto 0 auto;
   max-width: 90%
 }
 
@@ -279,9 +279,21 @@ div.content {
 }
 
 .content hr {
-  margin: 1rem 0;
-  width: 75%;
+  margin: 2rem 0;
 }
+
+.content blockquote {
+  background-color: rgb(217, 217, 217);
+  margin: 2rem 0 2rem 2rem;
+}
+
+/*.content blockquote p:first-child:first-letter {
+  font-size: 1rem;
+  line-height: 2rem;
+  float: none;
+  padding-right: none;
+  margin-top: none;
+}*/
 
 @media only screen and (max-width: 700px) {
   .menu a {
@@ -330,6 +342,11 @@ div.bio {
 
 /* Archive styling */
 
+.archive-heading {
+  max-width: 80%;
+  margin: 0 auto;
+}
+
 .button-group {
   text-align: center;
   text-transform: uppercase;
@@ -353,6 +370,14 @@ div.bio {
 .button-group a:hover{
   color: gray;
   font-weight: bold;
+  cursor: pointer;
+}
+
+.button-group a.active{
+  color: gray;
+  font-weight: bold;
+  cursor: pointer;
+  transform: translateZ(1rem);
 }
 
 .button-group a:before, .button-group a:after {
@@ -393,8 +418,8 @@ div.bio {
 .archive {
   margin: 0 auto;
   max-width: 80%;
-  display: flex;
-  flex-flow: row wrap;
+  /*display: flex;
+  flex-flow: row wrap;*/
 }
 /*
 .preview {
@@ -406,6 +431,7 @@ div.bio {
 
 .preview {
   max-width: 300px;
+  overflow: hidden;
 }
 
 .preview img {
@@ -453,9 +479,9 @@ div.bio {
 
 .feat {
   max-width: 100%;
-  display:flex;
+  /*display:flex;
   flex-flow: column nowrap;
-  padding: 1rem;
+  padding: 1rem;*/
 }
 /*
 .top-left {

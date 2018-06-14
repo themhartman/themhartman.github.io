@@ -20,4 +20,4 @@ image: /assets/img/boxer.jpg
 
 An essay in which I more or less just catalog my favorite lyrics from The National and try to point out their glory.
 
-[SongLyrics | The National('s) Image](http://www.songlyrics.com/news/the-nationals-image/)
+_Read it at [SongLyrics](http://www.songlyrics.com/news/the-nationals-image/)_.

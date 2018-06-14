@@ -20,4 +20,4 @@ image: /assets/img/fallenland.jpg
 
 Review of an ambitious and slightly disappointing novel about life in contemporary America.
 
-[Bookslut | Fallen Land by Patrick Flanery](http://www.bookslut.com/fiction/2013_08_020232.php)
+_Read it at_ [Bookslut](http://www.bookslut.com/fiction/2013_08_020232.php).
