@@ -8,23 +8,28 @@
   <title>{{ site.title }}</title>
   <script src="/assets/jquery-3.3.1.min.js" type="text/javascript"></script>
   <script src="/assets/isotope.pkgd.min.js" type="text/javascript"></script>
+  <script src="/assets/imagesloaded.pkgd.min.js" type="text/javascript"></script>
   <script src="/assets/isotope.settings.js" type="text/javascript"></script>
 </head>
 <body>
     {% include menu.html %}
+    <div class="archive-heading">
+      <h1>{{ page.tags }} Work</h1>
+      <h2>{{ content }}<h2>
+    </div>
     <div class="button-group filter-button-group">
-      <a class="button active" data-filter="*"><span data-hover="All">All</span></a>
+      <a class="button active all" data-filter="*"><span data-hover="All">All</span></a>
       {% for category in site.categories %}
         <a class="button" data-filter=".{{ category | first }}"><span data-hover="{{ category | first }}">{{ category | first }}</span></a>
       {% endfor %}
       </div>
     <div class="archive">
       {% for post in site.tags.[page.tags] %}
-      <div class="preview {{ post.categories }}">
+      <div class="preview {{ post.categories | join: ' ' }}">
         <img src="{{ post.image }}">
         <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
         <p>{{ post.summary }}</p>
-        <p class="type">Type: {{ post.categories }}<p>
+        <p class="type">Type: {{ post.categories | join: ' | ' }}<p>
       </div>
       {% endfor %}
     </div>

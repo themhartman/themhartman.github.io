@@ -21,4 +21,4 @@ image: /assets/img/wixiw.jpg
 
 Review of Liars' stunning electronic album _WIXIW_.
 
-[SongLyrics | WIXIW](http://www.songlyrics.com/news/album-reviews/album-review-liars-wixiw/)
+_Read it at [SongLyrics](http://www.songlyrics.com/news/album-reviews/album-review-liars-wixiw/)._

@@ -16,4 +16,5 @@ image: /assets/img/massacre.jpg
 ---
 
 Review of John Merriman's _Massacre_, a history of the Paris Commune, in light of Ferguson, Eric Garner, and Occupy, and in particular on the question of what lessons we should take from the Commune.
-[Bookslut | Massacre: The Life and Death of the Paris Commune by John Merriman](http://www.bookslut.com/nonfiction/2015_01_021060.php)
+
+_Read it at_ [Bookslut](http://www.bookslut.com/nonfiction/2015_01_021060.php).

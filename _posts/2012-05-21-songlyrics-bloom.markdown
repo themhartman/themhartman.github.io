@@ -21,4 +21,4 @@ image: /assets/img/bloom.jpg
 
 Review of the infections Beach House album _Bloom_.
 
-[SongLyrics | Bloom](http://www.songlyrics.com/news/album-reviews/album-review-beach-house-bloom/)
+_Read it at [SongLyrics](http://www.songlyrics.com/news/album-reviews/album-review-beach-house-bloom/)_.

@@ -7,7 +7,7 @@ tags:
 - blunderbuss
 - published
 categories:
-- creative work
+- creative
 title: "Accounting for Home"
 summary: "Growing up, finding home."
 layout: post

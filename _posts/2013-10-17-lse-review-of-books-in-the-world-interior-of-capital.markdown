@@ -21,4 +21,4 @@ image: /assets/img/worldinterior.jpg
 
 Review of Peter Sloterdijk's frustrating and wandering philosophical treatise-cum-cultural history.
 
-[LSE Review of Books | In the World Interior of Capital](http://blogs.lse.ac.uk/lsereviewofbooks/2013/10/17/book-review-in-the-world-interior-of-capital/)
+_Read it at the_ [LSE Review of Books](http://blogs.lse.ac.uk/lsereviewofbooks/2013/10/17/book-review-in-the-world-interior-of-capital/).

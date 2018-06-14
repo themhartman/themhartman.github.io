@@ -17,5 +17,5 @@ image: /assets/img/desperateclarity.jpg
 ---
 
 Review in which I fight through the second volume of Maurice Blanchot's _Chronicles of Intellectual Life_.
-
-[Bookslut | Desperate Clarity by Maurice Blanchot](http://www.bookslut.com/nonfiction/2013_12_020460.php)
+_Read it at_
+[Bookslut](http://www.bookslut.com/nonfiction/2013_12_020460.php).

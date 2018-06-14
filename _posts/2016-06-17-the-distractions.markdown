@@ -11,7 +11,7 @@ tags:
 - the distractions
 - unpublished
 categories:
-- creative work
+- creative
 image: /assets/img/brooklyn.jpg
 ---
 

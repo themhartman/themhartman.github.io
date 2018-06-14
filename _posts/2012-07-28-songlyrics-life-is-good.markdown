@@ -21,4 +21,4 @@ image: /assets/img/lifeisgood.jpg
 
 Review of Nas's late career, and yet still terrific, album _Life Is Good_.
 
-[SongLyrics | Life Is Good](http://www.songlyrics.com/news/album-reviews/album-review-nas-life-is-good/)
+_Read it at [SongLyrics](http://www.songlyrics.com/news/album-reviews/album-review-nas-life-is-good/)._
