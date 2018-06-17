@@ -179,6 +179,35 @@ nav.landing {
   transition: all 0.2s ease;
 }
 
+@media only screen and (max-width: 630px) {
+  .grid {
+    grid-template-areas:
+      "header"
+      "hero"
+      "hero2"
+      "nav"
+  }
+
+  .menu {
+    flex-flow: column nowrap;
+    align-items: flex-start;
+  }
+
+  .menu li {
+    padding: .75rem 0;
+    margin: .25rem 0;
+    clip-path: polygon(0% 0%, 33% 0%, 50% 0%, 66% 0%, 100% 0%, 100% 100%, 0% 100%);
+  }
+
+  .menu li:hover {
+    clip-path: polygon(0% 0%, 33% 0%, 50% 20%, 66% 0%, 100% 0%, 100% 100%, 0% 100%);
+  }
+
+  .hero {
+    height: 25rem
+  }
+}
+
 /* Article menu styling */
 
 .open-button {
@@ -191,6 +220,7 @@ nav.landing {
   line-height: 10rem;
   top: -3rem;
   left: -3rem;
+  cursor: pointer;
 }
 
 
@@ -204,7 +234,7 @@ nav.landing {
   transition: .5s ease-in-out;
   z-index: 1;
   overflow-x: hidden;
-  
+
 }
 
 .article-menu ul {
@@ -302,6 +332,7 @@ div.content {
 
   div.content {
     max-width: 100%;
+    margin: 5rem auto 2rem 2rem;
   }
 
   div.content p {
@@ -333,7 +364,7 @@ div.bio {
   float: left;
   border: 1px solid white;
   margin: .5rem .5rem 0 0;
-  border-radius: 50%;
+  clip-path: circle(50% at 50% 50%);
 }
 
 .bio p + p {
@@ -415,19 +446,31 @@ div.bio {
   background: red;
 }
 
+@media only screen and (max-width: 750px) {
+  .button-group {
+    display: flex;
+    flex-flow: column;
+  }
+
+  .button-group a {
+    padding: .5rem;
+  }
+
+  .button-group a:before, .button-group a:after {
+    content: '';
+    position: absolute;
+    width: 25%;
+    left: 37.5%;
+    top: 50%;
+    height: 2px;
+    background: rgb(0, 0, 0);
+  }
+}
+
 .archive {
   margin: 0 auto;
   max-width: 80%;
-  /*display: flex;
-  flex-flow: row wrap;*/
 }
-/*
-.preview {
-  display:flex;
-  flex-flow: column nowrap;
-  max-width: 100%;
-  padding: 1rem;
-}*/
 
 .preview {
   max-width: 300px;
@@ -468,33 +511,10 @@ div.bio {
   display: grid;
   margin: 0 auto;
   width: 80%;
- /* grid-template-areas:
-    "top-left top-mid top-right"
-    "bot-left bot-mid bot-right";
-  font-family: Glegoo;
-  align-items: start;
-  justify-items: center;
-  grid-gap: 15px;*/
 }
 
 .feat {
   max-width: 100%;
-  /*display:flex;
-  flex-flow: column nowrap;
-  padding: 1rem;*/
-}
-/*
-.top-left {
-  grid-area: top-left;
-}
-
-.top-mid {
-  grid-area: top-mid;
-}
-
-.top-right {
-  grid-area: top-right;
-}*/
 
 .feat-head {
   max-width: 100%;
@@ -503,23 +523,3 @@ div.bio {
 .feat-type a {
   font-weight: bold;
 }
-/*
-@media only screen and (max-width: 768px) {
-  ul.menu {
-    -webkit-flex-flow: column;
-    flex-flow:column;
-    justify-content:flex-start;
-    align-items:flex-end;
-    padding: 10px;
-  }
-
-  h1 {
-    font-size: 30px;
-  }
-
-  .subtitle {
-    font-size: 20px;
-    display: inline-block;
-  }
-}
-*/
