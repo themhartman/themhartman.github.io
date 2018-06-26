@@ -13,7 +13,7 @@ image: /assets/img/inthesetimes.jpg
 ---
 Roughly halfway through the 1992 Disney musical _Newsies_, the eponymous group of young, mostly white newspaper boys comes together in the middle of a public square for a song-and-dance routine whose chorus goes:
 
-    >Nothing can break us
+    > Nothing can break us
     No one can make us give our rights away
     Arise and seize the day
 
