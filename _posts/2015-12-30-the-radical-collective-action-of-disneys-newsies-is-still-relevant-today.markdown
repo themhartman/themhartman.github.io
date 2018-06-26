@@ -13,9 +13,9 @@ image: /assets/img/inthesetimes.jpg
 ---
 Roughly halfway through the 1992 Disney musical _Newsies_, the eponymous group of young, mostly white newspaper boys comes together in the middle of a public square for a song-and-dance routine whose chorus goes:
 
-    > Nothing can break us
-    No one can make us give our rights away
-    Arise and seize the day
+>Nothing can break us
+No one can make us give our rights away
+Arise and seize the day
 
 The earnest and naive tones these words strike are likely to elicit exasperation in some, hostility in others. But, though there are good reasons for both of those emotions, I find the scene nothing short of invigorating. The song displays a mix of genuine commitment to justice and surprising arrogance about how easy it is to obtain, and, for just those reasons, _Newsies_ is a film that merits critical attention. Though it may seem a stretch to look so closely at a '90s children's musical, there is much in _Newsies_ worth examining, especially for any who also have an interest in progressive politics.
 
