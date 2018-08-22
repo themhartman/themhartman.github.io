@@ -31,4 +31,6 @@ Chapel Hill's version requires new residential developments with five or more un
 
 Eight years on, however, it hasn't even been much of a tool. In some ways, it might have made things worse.
 
+---
+
 _Read the rest at_ [Indy Week](https://www.indyweek.com/indyweek/eight-years-ago-chapel-hill-enacted-the-most-progressive-affordable-housing-policy-in-the-triangle-heres-how-it-failed/Content?oid=17186448)
