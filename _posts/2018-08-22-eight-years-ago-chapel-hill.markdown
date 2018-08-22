@@ -9,7 +9,7 @@ categories:
 title: "Eight Years Ago, Chapel Hill Enacted the Most Progressive Affordable Housing Policy in the Triangle. Here’s How It Failed."
 summary: "Fighting a national problem with local solutions."
 layout: post
-image: /assets/img/indy-weekly.jpg
+image: /assets/img/indy_weekly.jpg
 ---
 When Chapel Hill Town Council members began debating a mandatory inclusionary zoning ordinance in 2005, they knew they were entering a legal gray area. But their goals weren't revolutionary.
 
