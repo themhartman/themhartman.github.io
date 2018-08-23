@@ -6,8 +6,8 @@ tags:
 - published
 categories:
 - reporting
-title: "Eight Years Ago, Chapel Hill Enacted the Most Progressive Affordable Housing Policy in the Triangle. Here’s How It Failed."
-summary: "Fighting a national problem with local solutions."
+title: "Zoned Out"
+summary: "Eight Years Ago, Chapel Hill Enacted the Most Progressive Affordable Housing Policy in the Triangle. Here’s How It Failed."
 layout: post
 image: /assets/img/indy_weekly.jpg
 ---
