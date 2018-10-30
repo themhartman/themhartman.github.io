@@ -17,4 +17,4 @@ To be clear, the “Bernie Bro” narrative painting DSA as a monolithically whi
 
 ---
 
-_Read the rest at_ [Democratic Left](http://www.dsausa.org/overcoming_individualism).
+_Read the rest at_ [Democratic Left](https://democraticleft.dsausa.org/2017/06/30/overcoming_individualism/).
