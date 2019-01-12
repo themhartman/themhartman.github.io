@@ -20,13 +20,6 @@ image: /assets/img/colloquium.jpg
 summary: "On universality and political violence."
 ---
 
-_obey says toc,submit says tic,
-Eternity’s a Five Year Plan:
-
-e.e. cummings_
-
-§ 1 – Introduction
-
 The contemporary political world―marked by rebellions and revolutions―necessitates understanding historical moments in their very particularity. The Arab Spring is the most recent example: as civil war engulfs Syria and the remnants of strife remain visible in Libya (and Egypt, and Tunisia), contemporary philosophers analyze thismoment in history even as it continues to develop. In doing so, they have often insisted on the particular rather than the universal, marking a move away from ethics and toward accepting even violent means as necessary to move history forward.
 
 The core of this intellectual response is ‘militantism’, which much of the Marxist and post-Marxist tradition of political philosophy has taken as the proper characterization of the ethical political subject. This trend toward militantism discloses a focus on the form of subjective commitment and passionate dedication rather than the content of specific actions. In turn, this focus often produces a defense of bloody rebellions in an effort to engage real-world politics.

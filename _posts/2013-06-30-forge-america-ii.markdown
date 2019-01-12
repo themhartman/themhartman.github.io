@@ -14,8 +14,16 @@ post_format:
 tags:
 - published
 image: /assets/img/forgevol7iss1.jpg
+summary: "A Ginsburg riff I like much less in retrospect."
 ---
 
-A poem riffing on Ginsburg that I like much less in retrospect.
+It occurs to me that I am not America.
 
-[Forge | America II](http://forgejournal.com/forge/2013/06/30/america-ii/)
+I like to think I am, and<br>
+maybe I once was.<br>
+But not now.<br>
+That―that can never again be.
+
+---
+
+_Read the rest at_ [Forge](http://forgejournal.com/forge/2013/06/30/america-ii/).

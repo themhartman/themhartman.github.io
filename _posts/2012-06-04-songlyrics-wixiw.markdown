@@ -17,8 +17,15 @@ tags:
 - songlyrics
 - published
 image: /assets/img/wixiw.jpg
+summary: "Diving into Liars' stunning album."
 ---
 
-Review of Liars' stunning electronic album _WIXIW_.
+Liars‘ music has drifted through styles with–and even within–each album. Tied together by an experimental attitude and singer Angus Andrew’s constant laments, they’ve succeeded in surprising while remaining familiar. Their stunning new album _WIXIW_ is no exception. On “A Ring on Every Finger” they hint towards a heavy-hearted James Murphy club banger with Andrew singing over an echoing bass line:
 
-_Read it at [SongLyrics](http://www.songlyrics.com/news/album-reviews/album-review-liars-wixiw/)._
+<blockquote>Take a walk, look around<br>
+There’s a sucker to be found<br>
+all that heartache</blockquote>
+
+---
+
+_Read the rest at [SongLyrics](http://www.songlyrics.com/news/album-reviews/album-review-liars-wixiw/)._

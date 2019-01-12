@@ -17,8 +17,11 @@ tags:
 - songlyrics
 - published
 image: /assets/img/skelethon.jpg
+summary: "Gushing over Aesop Rock's wordplay."
 ---
 
-A gushing review of Aesop Rock's _Skelethon_.
+Aesop Rock is a lyrical artist of the sort we here at SongLyrics live for–the sort whose music is near impossible to explain in a mere 500 words. He goes beyond turning hip hop into poetry, crafting songs from dizzying bits of images hewn together over dense, layered beats (and pushing poetry to its limits at the same time). Disappointment was never an option with Skelethon, his latest album, but the incisive wordplay it contains still surpasses expectations.
+
+---
 
 _Read it at [SongLyrics](http://www.songlyrics.com/news/album-reviews/album-review-aesop-rock-skelethon/)._
