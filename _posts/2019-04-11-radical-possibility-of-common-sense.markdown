@@ -15,4 +15,6 @@ Good punk music is obvious. That’s the whole point: it strips away all the fin
 
 Yet some punk felt as vital as ever, even though it was just as obvious. The second verse in the IDLES song “[Mother](https://www.youtube.com/watch?v=BuQG6_evFc8),” when singer Joe Talbot’s voice cracks screaming “my mother works seventeen hours seven days a week,” or [live Downtown Boys shows](https://www.youtube.com/watch?v=AMpukdjCUHw) when singer Victoria Ruiz mixes bilingual abolitionist speeches with simple calls to arms like “a wall is just a wall” — somehow, moments like these don’t sound lifeless truisms, they sound like the common-sense analysis of a budding generational movement. The things we’ve known for all our lives turn out to be things we’ve taken for granted, and suddenly something different seems not only possible, but inevitable.
 
+---
+
 _Read the rest at_ [The Outline](https://theoutline.com/post/7294/common-sense-political-thinking).
