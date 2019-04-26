@@ -24,20 +24,20 @@ html {
 	color: rgb(255,0,0);
 }
 
-.article-menu ul li a {
+/*.published-menu a, .unpublished-menu a, .about-menu a, .home-menu a {
   -webkit-backface-visibility:hidden;
           backface-visibility:hidden;
   position:relative;
   transition:0.5s color ease;
   text-decoration:none;
   color: white;
-}
+}*/
 
-.bio a:hover, .content a:hover, .article-menu ul li a:hover {
+.bio a:hover, .content a:hover, .published-menu a:hover, .unpublished-menu a:hover, .about-menu a:hover, .home-menu a:hover {
   color: gray;
 }
 
-.bio a:after, .content a:after, .article-menu ul li a:after {
+.bio a:after, .content a:after {
   content: "";
   transition:0.5s all ease;
   -webkit-backface-visibility:hidden;
@@ -52,85 +52,94 @@ html {
   transform:translateX(-50%);
 }
 
-.bio a:hover:after, .content a:hover:after, .article-menu ul li a:hover:after {
+.bio a:hover:after, .content a:hover:after {
   width: 100%;
 }
 
 /* Homepage styling */
 
-.grid {
-  display: grid;
-  grid-template-areas:
-    "header header header"
-    "hero hero hero"
-    "hero hero hero"
-    "nav nav nav";
-    "hero2 hero2 hero2"
-  max-width: 1000px;
-  margin: 20px;
-  font-family: Glegoo;
-  justify-items: center;
-}
+
 
 /* Header styling */
-
-header {
-  grid-area: header;
-  justify-self: start;
-  padding-bottom: 1rem;
+.titlepos {
+    position: absolute;
+    left: 40%;
+    bottom: 25%;
 }
 
-header.landing h1, .archive-heading h1{
+div.titlepos h1 {
   font-family: "Montserrat", serif;
-  font-size: 2.25rem;
+  color: red;
+  /*background-color: rgba(64, 67, 29, .6);*/
+  font-size: 3.5rem;
   text-transform: uppercase;
-  display: inline-block;
   margin-right: .625rem;
+  mix-blend-mode: overlay;
+  padding: 0;
+  margin: 0;
 }
 
-header.landing h2, .archive-heading h2{
+/*.subpos {
+    position: absolute;
+    left: 40%;
+    bottom: 20%;
+    width: 60%
+}*/
+
+div.titlepos h2{
   font-size: 1.375rem;
   font-family: "Glegoo", serif;
   text-transform: lowercase;
-  display: inline-block;
+  color: white;
+  background-color: rgba(255, 0, 0, .6);
+  mix-blend-mode: overlay;
+  margin-bottom: 0rem;
+  padding-top: 1rem;
+  margin-top: -1.25rem;
+}
+
+.herocontain {
+  position: absolute;
+  top: 20%;
+  left: 0;
+  min-width: 600px;
+  width: 50%;
 }
 
 .hero {
-  grid-column: hero-start / hero-end;
-  grid-row: hero-start / hero2-end;
+  clip-path: url(#organic);
   width: 100%;
-  background: url("/assets/img/streetlight1.jpg") center center;
-  background-size: cover;
-  height: 40rem;
-  clip-path: circle(40% at 50% 50%);
-  justify-self: center;
+  filter: sepia(65%);
 }
 
 nav.landing {
-  grid-area: nav;
-  justify-self: stretch;
+  position: absolute;
+  right: 0;
+  top: 0;
+  font-family: Glegoo;
+  z-index: 2;
 }
 
 .menu {
   display: flex;
-  flex-flow: row nowrap;
+  flex-flow: column nowrap;
   align-items: flex-end;
   justify-content: space-between;
-  height: 3rem;
+  height: 2rem;
 }
 
 .menu li {
   flex-grow: 1;
   text-align: center;
-  background: rgba(255, 0, 0, .5);
+  background: rgba(255, 0, 0, .6);
   list-style: none;
-  transition: all .5s;
-  padding: 2rem 0;
-  clip-path: polygon(0% 0%, 33% 0%, 50% 0%, 66% 0%, 100% 0%, 100% 100%, 0% 100%);
+  transition: 0.5s all ease;
+  padding: 1rem 1rem 1rem 3rem;
+  clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 50%, 0% 0%);
 }
 
 .menu li:hover {
-  clip-path: polygon(0% 0%, 33% 0%, 50% 35%, 66% 0%, 100% 0%, 100% 100%, 0% 100%);
+    clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%, 20% 50%, 0% 0%);
 }
 
 .menu a {
@@ -138,9 +147,9 @@ nav.landing {
   line-height: 1.625rem;
   color: white;
   text-decoration: none;
-  -webkit-transition: color 0.5s;
-  -moz-transition: color 0.5s;
-  transition: color ease .5s;
+  -webkit-transition: 0.5s color ease;
+  -moz-transition: 0.5s color ease;
+  transition: 0.5s color ease;
   position: relative;
 }
 
@@ -212,15 +221,15 @@ nav.landing {
 
 .open-button {
   position: fixed;
-  width:10rem;
-  height: 10rem;
   font-size: 2rem;
   text-align: center;
   vertical-align: center;
-  line-height: 10rem;
-  top: -3rem;
-  left: -3rem;
   cursor: pointer;
+  top: 1rem;
+  left: 2rem;
+  line-height: 1rem;
+  font-family: "Montserrat";
+  color: rgba(255,0,0,.8);
 }
 
 
@@ -230,14 +239,17 @@ nav.landing {
   top: 0;
   left: 0;
   width: 0;
-  height: 100%;
+  height: 100vh;
   transition: .5s ease-in-out;
   z-index: 1;
   overflow-x: hidden;
-
 }
 
-.article-menu ul {
+.article-menu a {
+  text-decoration: none;
+}
+
+/*.article-menu ul {
   display: flex;
   flex-flow: column nowrap;
   position: relative;
@@ -253,19 +265,94 @@ nav.landing {
   list-style: none;
   color: white;
   transition: .5s ease-in-out;
-}
+}*/
 
 
 .close-button {
   position: absolute;
   top: 1.5rem;
   right: 3rem;
-  font-size: 5rem;
+  font-size: 2rem;
   color: white;
   text-decoration: none;
+  line-height: 1rem;
+  font-family: "Montserrat";
+  text-align: center;
+  z-index: 3;
 }
 
+.published-menu, .unpublished-menu, .about-menu, .home-menu {
+  position: relative;
+  height: 50vh;
+  width: 50vw;
+  border: 1px white;
+  margin: 0;
+  padding: 0;
+  font-family: "Glegoo";
+  font-size: 1.5rem;
+  color: white;
+  transition: .5s ease-in-out;
+  border: 1px solid white;
+  z-index: 2;
+  display: flex;
+  flex-flow: column nowrap
+}
+
+.published-menu:hover, .unpublished-menu:hover, .about-menu:hover, .home-menu:hover {
+  background: red;
+  color:gray;
+}
+
+.about-menu {
+  left: 0;
+  top: 0;
+  justify-content: flex-end;
+  align-items: flex-end;
+  text-align: right;
+}
+
+.published-menu {
+  left: 50vw;
+  top: -50vh;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+
+.unpublished-menu {
+  left: 0;
+  top: -50vh;
+  justify-content: flex-start;
+  align-items: flex-end;
+  text-align: right;
+}
+
+.home-menu {
+  left: 50vw;
+  top: -100vh;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.menu-label {
+  padding: 2rem;
+  font-size: 5rem;
+}
+
+.menu-sum {
+  padding: 2rem;
+  font-size: 3rem;
+}
+
+
 /* Article styles */
+
+.archive-heading h1{
+  font-family: "Montserrat", serif;
+  font-size: 2.25rem;
+  text-transform: uppercase;
+  display: inline-block;
+  margin-right: .625rem;
+}
 
 img.article-hero {
   width: 50%;

@@ -10,14 +10,38 @@
 </head>
 <body>
   <header class="article">
-    <div class="open-button" onclick="openNav()">&#9776</div>
+    <div class="open-button" onclick="openNav()">
+      <p>ME</p>
+      <p>NU</p>
+    </div>
     <nav id="hamburger" class="article-menu">
-      <a href="javascript:void(0)" class="close-button" onclick="closeNav()">&times;</a>
-      <ul>
-        <li><a href="/published">Published</a></li>
-        <li><a href="/unpublished">Unpublished</a></li>
-        <li><a href="/about">About</a></li>
-        <li><a href="/">Home</a></li>
-      </ul>
+      <a href="javascript:void(0)" class="close-button" onclick="closeNav()">
+        <p>CLO</p>
+        <p>SE</p>
+      </a>
+      <a href="/about">
+        <div class="about-menu">
+          <p class="menu-sum">Who I am and how to contact me.</p>
+          <p class="menu-label">About</p>
+        </div>
+      </a>
+      <a href="/published">
+        <div class="published-menu">
+          <p class="menu-sum">Things judged worthy by someone aside from me.</p>
+          <p class="menu-label">Published</p>
+        </div>
+      </a>
+      <a href="/unpublished">
+        <div class="unpublished-menu">
+          <p class="menu-label">Unpublished</p>
+          <p class="menu-sum">Blog posts, works in progress, and abandoned projects.</p>
+        </div>
+      </a>
+      <a href="/">
+        <div class="home-menu">
+          <p class="menu-label">Home</p>
+          <p class="menu-sum">Give up and go back to the start.</p>
+        </div>
+      </a>
     </nav>
   </header>
