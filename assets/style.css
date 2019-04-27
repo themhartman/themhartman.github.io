@@ -137,6 +137,7 @@ nav.landing {
 
   .titlepos {
     left: 10vw;
+    max-width: 100vw;
   }
 
   div.titlepos h1 {
@@ -455,7 +456,7 @@ div.bio {
 
   .author-photo {
     width: 40vw;
-    left: 600px;
+    left: 5rem;
     top: 200px;
   }
 
