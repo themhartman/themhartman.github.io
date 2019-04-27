@@ -24,15 +24,6 @@ html {
 	color: rgb(255,0,0);
 }
 
-/*.published-menu a, .unpublished-menu a, .about-menu a, .home-menu a {
-  -webkit-backface-visibility:hidden;
-          backface-visibility:hidden;
-  position:relative;
-  transition:0.5s color ease;
-  text-decoration:none;
-  color: white;
-}*/
-
 .bio a:hover, .content a:hover, .published-menu a:hover, .unpublished-menu a:hover, .about-menu a:hover, .home-menu a:hover {
   color: gray;
 }
@@ -63,9 +54,9 @@ html {
 /* Header styling */
 .titlepos {
     position: absolute;
-    left: 40%;
+    left: 40vw;
     bottom: 25%;
-    width: 60%;
+    width: 60vw;
 }
 
 div.titlepos h1 {
@@ -77,6 +68,12 @@ div.titlepos h1 {
   mix-blend-mode: overlay;
   padding: 0;
   margin: 0;
+}
+
+@supports not (mix-blend-mode: overlay) {
+  div.titlepos h1, div.titlepos h2 {
+    mix-blend-mode: normal;
+  }
 }
 
 /*.subpos {
@@ -100,10 +97,10 @@ div.titlepos h2{
 
 .herocontain {
   position: absolute;
-  top: 20%;
+  top: 20vw;
   left: 0;
   min-width: 600px;
-  width: 50%;
+  width: 50vw;
 }
 
 .hero {
@@ -144,6 +141,11 @@ nav.landing {
 
   div.titlepos h1 {
     font-size: 2.5rem;
+  }
+
+  .herocontain {
+    width: 100vw;
+    min-width: 0;
   }
 
 }
@@ -453,7 +455,7 @@ div.bio {
 
   .author-photo {
     width: 40vw;
-    right: 0;
+    left: 600px;
     top: 200px;
   }
 
@@ -491,6 +493,14 @@ div.bio {
 @media only screen and (max-width: 650px) {
   .archive-heading {
     padding-left: 6rem;
+  }
+
+  .archive-heading h1 {
+    font-size: 2.25rem;
+  }
+
+  .archive-heading h2 {
+    font-size: 1.2rem;
   }
 }
 
