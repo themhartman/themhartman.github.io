@@ -65,15 +65,8 @@ div.titlepos h1 {
   font-size: 3.5rem;
   text-transform: uppercase;
   margin-right: .625rem;
-  mix-blend-mode: overlay;
   padding: 0;
   margin: 0;
-}
-
-@supports not (mix-blend-mode: overlay) {
-  div.titlepos h1, div.titlepos h2 {
-    mix-blend-mode: normal;
-  }
 }
 
 /*.subpos {
@@ -89,7 +82,6 @@ div.titlepos h2{
   text-transform: lowercase;
   color: white;
   background-color: rgba(255, 0, 0, .6);
-  mix-blend-mode: overlay;
   margin-bottom: 0rem;
   padding-top: 1rem;
   margin-top: -1.25rem;
@@ -445,7 +437,6 @@ div.bio {
 
 .bio p {
   color: black;
-  mix-blend-mode: difference;
 }
 
 @media only screen and (max-width: 700px) {
