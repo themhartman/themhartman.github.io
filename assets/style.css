@@ -344,6 +344,10 @@ div.content {
   margin-top: 2rem;
 }
 
+.content p ul {
+  margin-left: 2rem;	
+}
+
 .content p:first-child:first-letter {
   font-size: 4rem;
   float: left;
