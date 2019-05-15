@@ -345,7 +345,7 @@ div.content {
 }
 
 .content ul {
-  margin-left: 2rem;	
+  padding-left: 2rem;	
 }
 
 .content p:first-child:first-letter {
