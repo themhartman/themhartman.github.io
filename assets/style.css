@@ -324,7 +324,33 @@ nav.landing {
   }
 }
 
+/* Post nav styling */
+.post-nav {
+  position: fixed;
+  font-size: 1rem;
+  top: 40vh;
+  left: 2rem;
+  width: 10vw;
+  font-family: "Montserrat";
+  color: rgba(255,0,0,.8);
+}
 
+.post-nav a {
+  text-decoration: none;
+  color: red;
+}
+
+.post-nav a:hover {
+  color: gray;
+}
+
+.next-wrapper {
+    padding-bottom: 2rem;
+}
+
+.post-nav-arrow {
+  font-size: 1.5rem;
+}
 
 /* Article styles */
 
