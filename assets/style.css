@@ -314,6 +314,16 @@ nav.landing {
   max-width: 66%;
 }
 
+@media only screen and (max-width: 500px) {
+  .menu-label {
+    font-size:5vw;
+  }
+  
+  .menu-sum {
+    font-size: 3vw;
+  }
+}
+
 
 
 /* Article styles */
