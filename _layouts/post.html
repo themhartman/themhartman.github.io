@@ -26,6 +26,17 @@
   <div class="date">
     <p>{{ page.date | date: "%B %-d, %Y" }}</p>
   </div>
+  <div class="post-nav">
+    {% if page.next.url %}
+      <div class="next-wrapper">
+        <a class="next" href="{{page.next.url}}"><span class="post-nav-arrow">&#8592;</span><br/>{{page.next.title}}</a>
+      </div>
+    {% endif %}
+    {% if page.previous.url %}
+      <a class="prev" href="{{page.previous.url}}"><span class="post-nav-arrow">&#8594;</span><br/>{{page.previous.title}}</a>
+    {% endif %}
+</div>
+  </div>
       <nav>
       </nav>
   <div class="content">
