@@ -562,6 +562,9 @@ div.bio {
   .archive-heading h2 {
     font-size: 1.2rem;
   }
+	
+	.open-button {
+		left: 1 rem;
 }
 
 .button-group {
