@@ -525,6 +525,7 @@ div.bio {
   margin: .5rem .5rem 0 0;
   clip-path: url(#organic);
   z-index: 1;
+	opacity: .5;
 }
 
 .bio p {
