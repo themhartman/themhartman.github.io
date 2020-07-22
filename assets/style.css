@@ -314,6 +314,16 @@ nav.landing {
   max-width: 66%;
 }
 
+@media only screen and (max-width: 500px) {
+  .menu-label {
+    font-size:5vw;
+  }
+
+  .menu-sum {
+    font-size: 3vw;
+  }
+}
+
 /* Post nav styling */
 .post-nav {
   position: fixed;
@@ -433,6 +443,25 @@ div.content {
   div.content {
     max-width: 100%;
     margin: 5rem auto 2rem 5rem;
+  }
+
+  .post-nav {
+    position: relative;
+    top: auto;
+    width: 80vw;
+    margin: 0 auto;
+    display:flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+  }
+
+  .next-wrapper, .prev-wrapper {
+    width: 50%;
+    margin: .5rem;
+  }
+
+  .prev-wrapper {
+    text-align: right;
   }
 
   div.content p {
