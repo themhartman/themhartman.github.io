@@ -563,8 +563,8 @@ div.bio {
     font-size: 1.2rem;
   }
 	
-	.open-button {
-		left: 1 rem;
+	
+	
 }
 
 .button-group {
@@ -660,6 +660,11 @@ div.bio {
   margin: 0 auto;
   max-width: 80vw;
 }
+
+@media only screen and (max-width: 750px) {
+  .archive {
+    max-width: 75vw;
+  }
 
 .preview {
   max-width: 300px;
