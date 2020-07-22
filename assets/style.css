@@ -224,6 +224,30 @@ nav.landing {
   color: rgba(255,0,0,.8);
 }
 
+.open-button-mobile {
+  display: none;
+  position: fixed;
+  font-size: 2rem;
+  text-align: center;
+  vertical-align: center;
+  cursor: pointer;
+  top: 2rem;
+  left: 1.25rem;
+  line-height: 1.3rem;
+  font-family: "Montserrat";
+  color: rgba(255,0,0,.8);
+}
+
+@media only screen and (max-width: 500px) {
+  .open-button {
+    display: none;
+  }
+
+  .open-button-mobile {
+    display: inline;
+  }
+}
+
 
 .article-menu {
   background: rgba(255, 0, 0, .9);
