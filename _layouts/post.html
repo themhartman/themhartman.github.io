@@ -26,6 +26,11 @@
   <div class="date">
     <p>{{ page.date | date: "%B %-d, %Y" }}</p>
   </div>
+      <nav>
+      </nav>
+  <div class="content">
+    {{ content }}
+  </div>
   <div class="post-nav">
     {% if page.next.url %}
       <div class="next-wrapper">
@@ -33,14 +38,10 @@
       </div>
     {% endif %}
     {% if page.previous.url %}
-      <a class="prev" href="{{page.previous.url}}"><span class="post-nav-arrow">&#8594;</span><br/>{{page.previous.title}}</a>
+      <div class="prev-wrapper">
+        <a class="prev" href="{{page.previous.url}}"><span class="post-nav-arrow">&#8594;</span><br/>{{page.previous.title}}</a>
+      </div>
     {% endif %}
 </div>
-  </div>
-      <nav>
-      </nav>
-  <div class="content">
-    {{ content }}
-  </div>
 </body>
 </html>
