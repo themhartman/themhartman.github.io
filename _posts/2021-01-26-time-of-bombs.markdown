@@ -10,7 +10,7 @@ categories:
 title: "The Time of the Bombs"
 summary: "A review of Joseph Andras's novel Tomorrow They Won't Dare to Murder Us"
 layout: post
-image: /assets/img/protean.png
+image: /assets/img/protean-logo.png
 ---
 On February 11, 1957, Fernand Iveton was guillotined in Algiers, in the yard of Barberousse Prison. A military court had convicted him of “attempting to destroy, with an explosive substance, a building that is inhabited or used for habitation.” Iveton had gone to great lengths to ensure no one would be hurt in the blast and, in any event, the bomb didn’t go off. But he was a pied-noir, a Frenchman born in Algeria, and it was politically expedient to make an example of a European who had chosen the side of the Arabs.
 
