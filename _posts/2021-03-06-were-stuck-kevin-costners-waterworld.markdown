@@ -5,7 +5,7 @@ tags:
 - culture
 - published
 categories:
-- commentary
+- criticism
 title: "We're Stuck in Kevin Costner's _Waterworld_"
 summary: "Our political imagination is as bad as failed '90s blockbusters."
 image: /assets/img/jacobin.jpg
