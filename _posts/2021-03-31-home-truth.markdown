@@ -28,5 +28,6 @@ These experiences are the lived reality of what wonks call a “K-shaped recover
 Now, that recovery means inequality that was growing before the pandemic—between renters and owners, white and blue or pink collar, white people and people of color—is only accelerating. 
 
 In response, activists are only getting more ambitious. How their fight plays out in the next few years may set the stage for the future of the Triangle.
+
 ---
 _Read the rest at_ [Indy Week](https://indyweek.com/news/durham/covid-19-pandemic-housing-inequality/)_._
