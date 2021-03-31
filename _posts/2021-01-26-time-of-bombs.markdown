@@ -8,7 +8,7 @@ tags:
 categories:
 - criticism
 title: "The Time of the Bombs"
-summary: "A review of Joseph Andras's novel Tomorrow They Won't Dare to Murder Us"
+summary: "A review of Joseph Andras's novel Tomorrow They Won't Dare to Murder Us."
 layout: post
 image: /assets/img/protean-logo.png
 ---
