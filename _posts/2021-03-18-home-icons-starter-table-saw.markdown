@@ -6,7 +6,7 @@ tags:
 - published
 categories:
 - commentary
-title: "Home Icons: Started Table Saw"
+title: "Home Icons: Starter Table Saw"
 summary: "Tracing the bourgeois idealism of woodworking."
 layout: post
 image: /assets/img/reallife.jpg
