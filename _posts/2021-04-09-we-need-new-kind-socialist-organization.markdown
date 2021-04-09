@@ -9,7 +9,7 @@ categories:
 title: "We Need a New Kind of Socialist Organization"
 summary: "The hierarchical vs. horizontal debate is old, tired, and getting us nowhere."
 layout: post
-image: /assets/img/currentaffairs.jpg
+image: /assets/img/currentaffairs.png
 ---
 On October 10, 1917, the Bolshevik Party’s Central Committee made one of the formative decisions of the 20th century when it voted to launch the revolution that created history’s first workers’ state. But only 11 of the committee’s 20 members knew it. The other nine didn’t bother to show up for the meeting.
 
