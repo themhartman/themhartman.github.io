@@ -10,7 +10,7 @@ categories:
 title: "The Uncomfortable Truth About Why Buying Furniture Is So Miserable"
 summary: "Shopping for a simple couch or dresser is driving Americans mad. The cheap stuff breaks (or never arrives) and the good stuff is unaffordable. What does the future hold for one of the nation’s most important industries? North Carolina furniture makers are at the center of the struggle."
 layout: post
-image: /assets/img/assemblyca.png
+image: /assets/img/AssemblyCA.png 
 ---
 In 2021, Kitty King and her husband purchased a Broyhill-branded mattress, box spring, sectional, and recliner from Big Lots for $1,700. 
 
