@@ -7,7 +7,7 @@ tags:
 - published
 categories:
 - reporting
-title: "Chaos in the Bullring"
+title: "Part 1: Chaos in the Bullring"
 summary: "Following two years marked by chaos and scandal, the INDY is launching a four-part investigation into what brought Durham to this point, how it’s impacting local government responses to the pressing issues of crime and gentrification, and what comes next."
 layout: post
 image: /assets/img/indy_weekly.jpg
