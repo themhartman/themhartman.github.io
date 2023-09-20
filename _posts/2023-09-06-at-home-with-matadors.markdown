@@ -11,7 +11,7 @@ summary: "Durham is quite literally being remade. You don’t have to believe in
 layout: post
 image: /assets/img/indy_weekly.jpg
 ---
-erry McClain’s house is the one on Fayetteville Street with the skeletons hanging in effigy and a sign reading, “Black seniors hung out to dry and die.”
+Jerry McClain’s house is the one on Fayetteville Street with the skeletons hanging in effigy and a sign reading, “Black seniors hung out to dry and die.”
 
 He’s been accumulating protest signs for years, since the city began negotiating to buy part of McClain’s property in 2013.
 
