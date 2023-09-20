@@ -41,4 +41,4 @@ Poor Black neighborhoods have allied with wealthier white homeowners against acc
 The vast majority of voters are trying to make sense of it all. Tenants, especially, are just trying to pay their ever-increasing rent. 
 
 ---
-_Read the rest at_ [Indy Week](https://indyweek.com/news/durham/at-home-with-the-matadors-durhams-housing-crisis-scad-and-their-impacts-on-the-upcoming-election/)_._
+_Read the rest at_ [Indy Week](https://indyweek.com/news/durham/at-home-with-the-matadors-durhams-housing-crisis-scad-and-their-impacts-on-the-upcoming-election/)_. This story was also published at_ [The Assembly](https://www.theassemblync.com/politics/elections/durham-scad-affordable-housing-election/) _as "Bull City Beef."_
