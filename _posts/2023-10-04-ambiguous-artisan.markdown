@@ -9,7 +9,7 @@ categories:
 title: "The Ambiguous Artisan"
 summary: "North Carolina’s most important furniture maker was a free man of color who owned slaves. He also might have been an abolitionist. Is the state ready for his story?"
 layout: post
-image: /assets/img/AssemblyCA.png 
+image: /assets/img/theassembly.png 
 ---
 As you arrive at the Thomas Day House and Union Tavern in Milton, North Carolina, population 156, a sign instructs you to call “Twinkle.” 
 
