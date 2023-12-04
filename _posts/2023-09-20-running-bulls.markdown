@@ -37,4 +37,4 @@ On the cusp of early voting for the primary, Durham seems split on the question,
 The core issues shaping what voters think of the balance—city council scandals, holistic policing strategies, and ways to manage growth—were covered in the first three parts of this series. This final piece raises four key political questions. How voters answer them this fall will shape Durham’s future.
 
 ---
-_Read the rest at_ [Indy Week](https://indyweek.com/news/durham/the-running-of-the-bulls/)_.
+_Read the rest at_ [Indy Week](https://indyweek.com/news/durham/the-running-of-the-bulls/).
