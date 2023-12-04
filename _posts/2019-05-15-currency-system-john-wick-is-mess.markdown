@@ -8,7 +8,7 @@ tags:
 categories:
 - criticism
 title: "The Currency System in ‘John Wick’ Is a Mess"
-summary: "The Continental’s use of gold coins raises more questions than answers—though it’s a bit of nonsense that may actually be a sneaky good depiction of real life"
+summary: "The Continental’s use of gold coins raises more questions than answers—though it’s a bit of nonsense that may actually be a sneaky good depiction of real life."
 layout: post
 image: /assets/img/ringer.jpg
 ---
