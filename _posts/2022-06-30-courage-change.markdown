@@ -39,4 +39,4 @@ But now, halfway through the regular season, the Courage find themselves in last
 
 ---
 
-_Read the rest at_ [The Assembly](https://www.theassemblync.com/long-form/nc-courage-womens-soccer/).
+_Read the rest at_ [The Assembly](https://www.theassemblync.com/culture/sports/nc-couragethe-courage-to-change/).
