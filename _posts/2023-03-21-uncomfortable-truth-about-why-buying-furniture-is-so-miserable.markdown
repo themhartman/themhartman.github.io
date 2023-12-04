@@ -46,4 +46,4 @@ The question is, can the rest of us?
 
 ---
 
-_Read the rest at_ [The Assembly]([https://www.theassemblync.com/politics/elections/cooper-district-19-senate/](https://www.theassemblync.com/business/high-point-furniture/) _or [CurrentAffairs](https://www.consumeraffairs.com/news04/). You can also read a [sidebar about the Catawba Valley Furniture Academy](https://www.theassemblync.com/business/catawba-furniture-academy/).
+_Read the rest at_ [The Assembly](https://www.theassemblync.com/business/high-point-furniture/) or [CurrentAffairs](https://www.consumeraffairs.com/news04/). You can also read a [sidebar about the Catawba Valley Furniture Academy](https://www.theassemblync.com/business/catawba-furniture-academy/).
