@@ -62,4 +62,4 @@ Jed Atkins, the dean of UNC-Chapel Hill’s controversial new School of Civic Li
 
 ---
 
-_You can find everything I've written for_ The Assembly _at [our website](https://www.theassemblync.com/culture/sports/unc-north-carolina-womens-soccer-anson-dorrance-investigation-transfers/)._
+_You can find everything I've written for_ The Assembly _at [our website](https://www.theassemblync.com/author/matt-hartman/)._
